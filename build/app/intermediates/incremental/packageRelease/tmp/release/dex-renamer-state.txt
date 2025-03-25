@@ -1,0 +1,4 @@
+#Mon Mar 24 17:42:32 IST 2025
+base.0=/Users/livingspark/Downloads/FlutterDev/living-menu-QSR/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
